@@ -11,8 +11,8 @@ the arduino code implements a PID controller to define an output value U for con
 
 
 
-You can see the finished car working in the 'movie' video 
-![](Projet/Movie.mp4)
+You can see the finished car working in the 'movie' video in Franco folder 
+![](Movie.mp4)
 
-The arduino code and the mecanical design files are in the Franco file
+The arduino code and the mecanical design files are in the Franco folder
 
