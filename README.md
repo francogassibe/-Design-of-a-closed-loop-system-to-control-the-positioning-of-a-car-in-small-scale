@@ -3,7 +3,7 @@
 
 In this projet we implemented a position control of a litle car we also mecanicaly designed from scratch
 
-![](Project/Photo.png)
+![](Projet/Photo.jpg)
 
 The car has 2 CC motors driven by an H bridge Controled by an Arduino ONE, 
 the arduino get position values from an ultrasound sensor and 
