@@ -1,7 +1,7 @@
 # Control of car position
 
 
-In this projet we implemented a position control of a litle car we also mecanicaly designed from scratch
+In this projet we implemented a position control of a litle car we also mecanicaly designed from scratch 3D printing it.
 
 ![](Projet/Photo.jpg)
 
